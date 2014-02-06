@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/Variabili-x-riferimento.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/Variabili-x-riferimento.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/Variabili-x-valore.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/Variabili-x-valore.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/conversione-boleane.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/conversione-boleane.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/dati-tipo-null.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/dati-tipo-null.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/index.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/indicizzazione-stringhe.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/indicizzazione-stringhe.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/numeri-interi-e-con-virgole.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/numeri-interi-e-con-virgole.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/stringhe.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/stringhe.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/TipiDati/valori-boleani.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/valori-boleani.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391724868241" ignored="false" />
     <file path="/firstprog.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725212502" ignored="false" />
-    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391726656282" ignored="false" />
+    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391730073525" ignored="false" />
     <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725733468" ignored="false" />
     <file path="/Istruzione_if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391726892773" ignored="false" />
+    <file path="/If-elese-if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391730276784" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +36,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Istruzione_if.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/Istruzione_if.php">
+      <file leaf-file-name="istruzione_if.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_if.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="610" selection-end="610" vertical-scroll-proportion="0.68301225">
+            <state line="21" column="2" selection-start="588" selection-end="588" vertical-scroll-proportion="-13.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="if-elseif-if.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="41" selection-start="467" selection-end="501" vertical-scroll-proportion="0.49668875">
               <folding />
             </state>
           </provider>
@@ -68,8 +66,11 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="80" selection-start="300" selection-end="300" vertical-scroll-proportion="-6.25">
-              <folding />
+            <state line="11" column="48" selection-start="387" selection-end="387" vertical-scroll-proportion="-6.875">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,17 +97,18 @@
         <option value="$PROJECT_DIR$/firstprog.php" />
         <option value="$PROJECT_DIR$/esercizi/Controllo_Esecuzione/index.php" />
         <option value="$PROJECT_DIR$/esercizi/Controllo_Esecuzione/include_menu.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/Istruzione_if.php" />
+        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/If-elese-if.php" />
+        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" />
+        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1282" />
-    <option name="y" value="102" />
+    <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="741" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -242,14 +244,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1282" y="102" width="1280" height="741" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.670947" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2706645" sideWeight="0.670947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17666127" sideWeight="0.670947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -359,14 +361,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="80" selection-start="300" selection-end="300" vertical-scroll-proportion="-6.25">
+        <state line="11" column="48" selection-start="387" selection-end="387" vertical-scroll-proportion="-6.875">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_if.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="2" selection-start="588" selection-end="588" vertical-scroll-proportion="-13.125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/Istruzione_if.php">
+    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="610" selection-end="610" vertical-scroll-proportion="0.68301225">
+        <state line="20" column="41" selection-start="467" selection-end="501" vertical-scroll-proportion="0.49668875">
           <folding />
         </state>
       </provider>
