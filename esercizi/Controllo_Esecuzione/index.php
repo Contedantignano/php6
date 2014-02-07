@@ -11,6 +11,7 @@
     <li><a href="/esercizi/controllo_esecuzione/istruzione_if.php" style="text-decoration:none">Istruzione IF</a></li>
     <li><a href="/esercizi/controllo_esecuzione/if-elseif-if.php" style="text-decoration:none">Istruzione IF-ELSEIF-ELSE</a></li>
     <li><a href="/esercizi/controllo_esecuzione/switch.php" style="text-decoration:none">SWICTH</a></li>
+    <li><a href="/esercizi/controllo_esecuzione/ciclo_for.php" style="text-decoration:none">Ciclo FOR</a></li>
 
 </ul>
 </body>
