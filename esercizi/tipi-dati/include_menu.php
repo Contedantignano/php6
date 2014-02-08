@@ -1,3 +1,3 @@
-<a href="/php6/esercizi/TipiDati/index.php">Indice</a>
+<a href="/esercizi/tipi-dati/">Indice</a>
 <br>
 <hr>

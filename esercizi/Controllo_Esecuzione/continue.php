@@ -8,7 +8,6 @@
 <p>CONTINUE è da utilizzare <b>all'interno dei cicli</b> PER DECIDERE di volta in volta SE CONTINUARE
    con l'esecuzione o meno dello script. L'istruzione è posta dentro il ciclo stesso, ovunque sia necessario.
 </p>
-
 <?php include 'include_menu.php'; ?>
 <hr>
 <br>
