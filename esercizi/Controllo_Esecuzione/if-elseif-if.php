@@ -5,6 +5,7 @@
 </head>
 <body>
 <h2>IF ELESE IF CONTROLLO DELLA RIPRODUZIONE DEL CODICE</h2>
+<p>E' <b>utilizzato per scrivere condizioni di iterazioni molto potenti</b> che prevedono un alto numero di condizioni.</p>
 <?php include 'include_menu.php'; ?>
 <hr>
 <br>
