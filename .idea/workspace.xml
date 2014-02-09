@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/Funzioni/index.php" afterPath="$PROJECT_DIR$/esercizi/Funzioni/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php" afterPath="$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +25,7 @@
     <file path="/istruzione_exit.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391862307274" ignored="false" />
     <file path="/phpinfo.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391874655267" ignored="false" />
     <file path="/dichiarazione.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391877105282" ignored="false" />
-    <file path="/funzioni_e_valori_di_ritorno.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391980442534" ignored="false" />
+    <file path="/funzioni_e_valori_di_ritorno.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391981058170" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <file leaf-file-name="funzioni_e_valori_di_ritorno.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="4" selection-start="554" selection-end="554" vertical-scroll-proportion="0.6456954">
+            <state line="45" column="27" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.6923077">
               <folding />
             </state>
           </provider>
@@ -421,8 +419,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3246951" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" x="0" y="22" width="1280" height="774" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.9830317" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7987805" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26094005" sideWeight="0.6722561" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277439" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26094005" sideWeight="0.6737805" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3262195" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.7987805" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17530487" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -520,7 +518,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="44" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -613,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="4" selection-start="554" selection-end="554" vertical-scroll-proportion="0.6456954">
+        <state line="45" column="27" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.6923077">
           <folding />
         </state>
       </provider>
