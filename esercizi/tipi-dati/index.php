@@ -5,8 +5,6 @@
 </head>
 <body>
 <h2>Tipi di dati in PHP</h2>
-<?php include 'include_menu.php'; ?>
-<h3>I tipi di dati in php sono 4</h3>
 <ul>
     <li><a href="/esercizi/tipi-dati/numeri-interi-e-con-virgole.php">I Numeri Interi & con le Virgole</a></li>
     <li><a href="/esercizi/tipi-dati/stringhe.php">Le stringhe</a></li>

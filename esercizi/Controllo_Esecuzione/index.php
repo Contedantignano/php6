@@ -5,7 +5,6 @@
 </head>
 <body>
 <h2>Controllo Esecuizione - PHP</h2>
-<?php include 'include_menu.php'; ?>
 <hr>
 <ul>
     <li><a href="/esercizi/controllo_esecuzione/istruzione_if.php" style="text-decoration:none">Istruzione IF</a></li>
@@ -17,6 +16,7 @@
     <li><a href="/esercizi/controllo_esecuzione/ciclo_do_while.php" style="text-decoration:none">Ciclo DO - WHILE</a></li>
     <li><a href="/esercizi/controllo_esecuzione/ciclo_while.php" style="text-decoration:none">Ciclo WHILE</a></li>
     <li><a href="/esercizi/controllo_esecuzione/continue.php" style="text-decoration:none">Comando CONTINUE</a></li>
+    <li><a href="/esercizi/controllo_esecuzione/istruzione_exit.php" style="text-decoration:none">Comando EXIT</a></li>
 </ul>
 <hr>
 <li><a href="/esercizi/index.php">Torna all'indice generale</a></li>

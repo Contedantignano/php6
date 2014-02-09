@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/Funzioni/dichiarazione.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/Funzioni/include_menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/Funzioni/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/phpinfo.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/index.php" afterPath="$PROJECT_DIR$/esercizi/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/index.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_exit.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_exit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391858262779" ignored="false" />
+    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391878100486" ignored="false" />
     <file path="/firstprog.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725212502" ignored="false" />
-    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391861324887" ignored="false" />
-    <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391861633077" ignored="false" />
+    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391874829073" ignored="false" />
+    <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391875934719" ignored="false" />
     <file path="/Istruzione_if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391726892773" ignored="false" />
     <file path="/If-elese-if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391730276784" ignored="false" />
     <file path="/switch.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391731979562" ignored="false" />
@@ -24,6 +31,9 @@
     <file path="/if-elseif-if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391806190850" ignored="false" />
     <file path="/break.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391806730135" ignored="false" />
     <file path="/continue.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391859379703" ignored="false" />
+    <file path="/istruzione_exit.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391862307274" ignored="false" />
+    <file path="/phpinfo.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391874655267" ignored="false" />
+    <file path="/dichiarazione.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391877105282" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,44 +57,7 @@
     <favorites_list name="PHP6" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="conversione-boleane.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/conversione-boleane.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numeri-interi-e-con-virgole.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/numeri-interi-e-con-virgole.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="include_menu.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="4" selection-start="46" selection-end="46" vertical-scroll-proportion="-0.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="include_menu.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -103,22 +76,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/If-elese-if.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/switch.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach-key.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach_key.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_while.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_do_while.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/break.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_for.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/continue.php" />
-        <option value="$PROJECT_DIR$/esercizi/index.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" />
-        <option value="$PROJECT_DIR$/esercizi/tipi-dati/index.php" />
         <option value="$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php" />
+        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_exit.php" />
+        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" />
+        <option value="$PROJECT_DIR$/esercizi/tipi-dati/index.php" />
+        <option value="$PROJECT_DIR$/esercizi/Funzioni/index.php" />
+        <option value="$PROJECT_DIR$/esercizi/Funzioni/phpinfo.php" />
+        <option value="$PROJECT_DIR$/esercizi/index.php" />
+        <option value="$PROJECT_DIR$/esercizi/Funzioni/include_menu.php" />
+        <option value="$PROJECT_DIR$/esercizi/Funzioni/dichiarazione.php" />
       </list>
     </option>
   </component>
@@ -126,14 +99,19 @@
   <component name="PhpServers">
     <option name="servers">
       <server host="php6" name="php6" />
+      <server host="localhost" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <path_mapping local_path="$PROJECT_DIR$/esercizi/tipi-dati" remote_path="/Library/Application Support/appsolute/MAMP PRO/mamp" />
+        </path_mappings>
+      </server>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1425" />
-    <option name="y" value="-296" />
-    <option name="width" value="1356" />
-    <option name="height" value="841" />
+    <option name="x" value="129" />
+    <option name="y" value="61" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -256,7 +234,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tipi-dati" />
+              <option name="myItemId" value="Funzioni" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -286,10 +264,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/esercizi/phpinfo.php" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="php6" serverId="d8424b69-fd42-4020-aca5-c00966ec3680">
     <servers>
@@ -307,11 +288,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/esercizi/Funzioni" />
       <recent name="$PROJECT_DIR$/esercizi/controllo_esecuzione" />
       <recent name="$PROJECT_DIR$/esercizi/Controllo_Esecuzione" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/esercizi" />
+      <recent name="$PROJECT_DIR$/esercizi/controllo_esecuzione" />
     </key>
   </component>
   <component name="RunManager">
@@ -319,15 +302,80 @@
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="chrome" />
+        <option name="fileUrl" value="" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d8424b69-fd42-4020-aca5-c00966ec3680" server_name="php6">
       <method />
     </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="" />
@@ -357,19 +405,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1425" y="-296" width="1356" height="841" extended-state="6" />
-    <editor active="true" />
+    <frame x="129" y="61" width="1280" height="774" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2003058" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3246951" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" x="0" y="22" width="1280" height="774" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.9830317" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961832" sideWeight="0.69210523" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23664123" sideWeight="0.6611342" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33886585" sideWeight="0.99389315" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.69210523" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7987805" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25688818" sideWeight="0.6722561" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277439" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.7987805" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17530487" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21100917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -442,139 +490,111 @@
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php</url>
           <line>13</line>
-          <option name="timeStamp" value="19" />
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/esercizi/controllo_esecuzione/continue.php</url>
-          <line>19</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="24" />
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php">
+    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/indicizzazione-stringhe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="12" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_while.php">
+    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="566" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="1" column="4" selection-start="46" selection-end="46" vertical-scroll-proportion="-0.625" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/break.php">
+    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/numeri-interi-e-con-virgole.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="578" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/conversione-boleane.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="1082" selection-end="1082" vertical-scroll-proportion="-14.375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="7" selection-start="343" selection-end="343" vertical-scroll-proportion="-8.75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_exit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="2" selection-start="340" selection-end="340" vertical-scroll-proportion="0.5839416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1449" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="521" selection-end="521" vertical-scroll-proportion="0.620438" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/include_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="85" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_do_while.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="109" selection-start="223" selection-end="223" vertical-scroll-proportion="-4.375">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach_key.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="578" selection-end="578" vertical-scroll-proportion="0.45840406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/phpinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.3875969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/dichiarazione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="91" selection-end="91" vertical-scroll-proportion="0.14900662">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_for.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="2" selection-start="593" selection-end="593" vertical-scroll-proportion="-11.541667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_if.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="2" selection-start="588" selection-end="588" vertical-scroll-proportion="0.58768654">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/continue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="3" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="140" selection-end="176" vertical-scroll-proportion="-4.375">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#8;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="44" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.72639227">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="368" selection-end="368" vertical-scroll-proportion="0.45774648">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/indicizzazione-stringhe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/conversione-boleane.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/numeri-interi-e-con-virgole.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="46" selection-end="46" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+        <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.33161953">
           <folding />
         </state>
       </provider>
