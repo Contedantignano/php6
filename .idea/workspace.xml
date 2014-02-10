@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php" afterPath="$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/funzioni/global.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/esercizi/funzioni/visibilita-variabili.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/funzioni_e_valori_di_ritorno.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/funzioni_e_valori_di_ritorno.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/index.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391979182200" ignored="false" />
+    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1392050791780" ignored="false" />
     <file path="/firstprog.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725212502" ignored="false" />
-    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391980402382" ignored="false" />
+    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1392056408345" ignored="false" />
     <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391875934719" ignored="false" />
     <file path="/Istruzione_if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391726892773" ignored="false" />
     <file path="/If-elese-if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391730276784" ignored="false" />
@@ -26,6 +30,9 @@
     <file path="/phpinfo.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391874655267" ignored="false" />
     <file path="/dichiarazione.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391877105282" ignored="false" />
     <file path="/funzioni_e_valori_di_ritorno.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391981058170" ignored="false" />
+    <file path="/visibilita-variabili.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1392055532299" ignored="false" />
+    <file path="/global.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1392056035541" ignored="false" />
+    <file path="/static.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1392056896753" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,35 +57,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dichiarazione.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/dichiarazione.php">
+      <file leaf-file-name="visibilita-variabili.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/esercizi/funzioni/visibilita-variabili.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="488" selection-end="488" vertical-scroll-proportion="-16.25">
-              <folding>
-                <marker date="1391877437000" expanded="true" signature="90:487" placeholder="..." />
-                <marker date="1391877437000" expanded="true" signature="97:181" placeholder="..." />
-                <marker date="1391877437000" expanded="true" signature="188:479" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="funzioni_e_valori_di_ritorno.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="27" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.6923077">
+            <state line="16" column="0" selection-start="457" selection-end="648" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/index.php">
+        <entry file="file://$PROJECT_DIR$/esercizi/funzioni/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="109" selection-start="250" selection-end="250" vertical-scroll-proportion="-5.625">
+            <state line="18" column="7" selection-start="900" selection-end="900" vertical-scroll-proportion="-11.25">
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/esercizi/funzioni/global.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="7" selection-start="871" selection-end="871" vertical-scroll-proportion="-18.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/esercizi/funzioni/static.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="0.7644991">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -102,10 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/break.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php" />
-        <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_for.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/continue.php" />
         <option value="$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php" />
         <option value="$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php" />
@@ -118,6 +128,10 @@
         <option value="$PROJECT_DIR$/esercizi/Funzioni/dichiarazione.php" />
         <option value="$PROJECT_DIR$/esercizi/Funzioni/index.php" />
         <option value="$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php" />
+        <option value="$PROJECT_DIR$/esercizi/funzioni/visibilita-variabili.php" />
+        <option value="$PROJECT_DIR$/esercizi/funzioni/global.php" />
+        <option value="$PROJECT_DIR$/esercizi/funzioni/index.php" />
+        <option value="$PROJECT_DIR$/esercizi/funzioni/static.php" />
       </list>
     </option>
   </component>
@@ -136,7 +150,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="774" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -213,7 +227,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -260,24 +273,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Funzioni" />
+              <option name="myItemId" value="funzioni" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/esercizi/phpinfo.php" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/esercizi/phpinfo.php" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="php6" serverId="d8424b69-fd42-4020-aca5-c00966ec3680">
     <servers>
@@ -315,10 +329,10 @@
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -347,14 +361,14 @@
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d8424b69-fd42-4020-aca5-c00966ec3680" server_name="php6">
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d8424b69-fd42-4020-aca5-c00966ec3680" server_name="php6">
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -412,15 +426,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2003058" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3246951" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" x="0" y="22" width="1280" height="774" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.9830317" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7987805" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26094005" sideWeight="0.6737805" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3262195" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25769854" sideWeight="0.6680912" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33190882" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.7987805" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17530487" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -428,7 +443,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -518,25 +532,10 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="55" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="46" selection-end="46" vertical-scroll-proportion="-0.625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/numeri-interi-e-con-virgole.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/conversione-boleane.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/esercizi/tipi-dati/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="1082" selection-end="1082" vertical-scroll-proportion="-14.375" />
@@ -555,11 +554,6 @@
     <entry file="file://$PROJECT_DIR$/esercizi/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="7" selection-start="521" selection-end="521" vertical-scroll-proportion="0.620438" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/include_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php">
@@ -589,29 +583,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/dichiarazione.php">
+    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/funzioni_e_valori_di_ritorno.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="488" selection-end="488" vertical-scroll-proportion="-16.25">
-          <folding>
-            <marker date="1391877437000" expanded="true" signature="90:487" placeholder="..." />
-            <marker date="1391877437000" expanded="true" signature="97:181" placeholder="..." />
-            <marker date="1391877437000" expanded="true" signature="188:479" placeholder="..." />
-          </folding>
+        <state line="18" column="5" selection-start="482" selection-end="482" vertical-scroll-proportion="0.64748204">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/index.php">
+    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/dichiarazione.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="109" selection-start="250" selection-end="250" vertical-scroll-proportion="-5.625">
+        <state line="26" column="7" selection-start="488" selection-end="488" vertical-scroll-proportion="0.9352518">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/include_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/visibilita-variabili.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="457" selection-end="648" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="871" selection-end="871" vertical-scroll-proportion="-18.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="7" selection-start="900" selection-end="900" vertical-scroll-proportion="-11.25">
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/Funzioni/funzioni_e_valori_di_ritorno.php">
+    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/static.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="27" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.6923077">
+        <state line="29" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="0.7644991">
           <folding />
         </state>
       </provider>
