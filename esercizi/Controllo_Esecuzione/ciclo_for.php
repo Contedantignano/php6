@@ -9,7 +9,13 @@
 <hr>
 <br>
 <p>Il ciclo FOR offre la possibilità di <b>NON ESEGUIRE NESSUNA</b> iterazione.<br>
-    E' strutturato cos':<br>
+    <b>Il ciclo for esegue un ciclo di informazioni fino a quando la condizione iniziale non diviene falsa.</b><br>
+    <br>
+    <p><b>Il ciclo "for" può sempre essere ricondotto ad un ciclo "do while" e anche ad un ciclo "while". </b></p>
+    La sintassi è la seguente:</p>
+    for (espressione iniziale; condizione; aggiornamento){
+    ....operazioni....
+    }
     * for (inizio: condizione; azione*) "*" L'azione di solito è un incrementale tipo ++<br>
     * {<br>
     * istruzioni<br>

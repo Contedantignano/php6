@@ -8,6 +8,8 @@
 <p>il costrutto "Ciclo while" è molto simile al ciclo FOR; <b>qui le variabili che in qualche
     modo influenzano le condizioni sono innestate nel ciclo stesso.</b><br>
     Il ciclo viene effettuato MENTRE LA CONDIZIONE (ed i parametri) E' TRUE</p>
+<p>Il ciclo while dura fino a quando la condizione è vera. Per far questo dobbiamo necessariamente far variare la condizione all'interno del ciclo.
+Esempio:</p>
 <?php include 'include_menu.php'; ?>
 <hr>
 <br>
