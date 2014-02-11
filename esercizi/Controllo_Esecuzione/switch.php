@@ -8,10 +8,12 @@
 <?php include 'include_menu.php'; ?>
 <hr>
 <br>
+<p> Il costrutto SWITCH <b>consente di TESTARE IL VALORE di una VARIABILE (o di una espressione)</b>
+    e di <p style="text-decoration: underline">definire ed eseguire delle operazioni IN CORRISPONDENZA di un determinato valore
+    <br>Scrip di esempio: riconoscimento vocale o consonante...</p>
+<hr>
+<br>
 <?php
- /** Il costrutto SWITCH consente di TESTARE IL VALORE di una VARIABILE (o di una espressione)
- * e di definire ed eseguire delle operazioni IN CORRISPONDENZA di un determinato valore
- */
     $lettera = "o";
     switch ($lettera)
     {

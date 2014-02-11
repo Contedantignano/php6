@@ -6,12 +6,7 @@
     <body>
     <h2>Dati Stringa in PHP</h2>
     <?php include 'include_menu.php'; ?>
-    <?php
-    /**test php UTF */
-    header("Vary: Accept");
-    header("Content-Type: text/html;charset=UTF-8");
-    echo'<?xml version="1.0" encoding="UTF-8?>';
-    ?>
+    <br>
        <?php
        /** le stringhe stanno dentro degli appositi delimitatori */
        $variabilestringa = "paperino";
@@ -21,13 +16,6 @@
        print('stampo un singolo apice: \' e un doppio apice: " <br>');
        print("stampo un singolo apice: ' e un doppio apice: \" <br>");
        ?>
-
-       <?php
-       header('Content-Language: it');
-       header('Content-type: text/html;charset=utf-8');
-       echo 'àèéìòù' . "\n";
-       ?>
-
     </body>
 </html>
 

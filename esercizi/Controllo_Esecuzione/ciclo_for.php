@@ -5,8 +5,17 @@
 </head>
 <body>
 <h2>Ciclo For</h2>
-<p>Il ciclo FOR offre la possibilità di non eseguire nessuna iterazione.</p>
 <?php include 'include_menu.php'; ?>
+<hr>
+<br>
+<p>Il ciclo FOR offre la possibilità di <b>NON ESEGUIRE NESSUNA</b> iterazione.<br>
+    E' strutturato cos':<br>
+    * for (inizio: condizione; azione*) "*" L'azione di solito è un incrementale tipo ++<br>
+    * {<br>
+    * istruzioni<br>
+    * }<br>
+    * IL ciclo for offre la possibilità di non eseguire nessuna iterazione.
+    */</p>
 <hr>
 <br>
 <?php

@@ -5,10 +5,18 @@
 </head>
 <body>
 <h2>Ciclo while</h2>
-<p>il costrutto "Ciclo while" è molto simile al ciclo FOR; qui le variabili che in qualche
-    modo influenzano le condizioni sono innestate nel ciclo stesso.</p>
-<p>Il ciclo viene effettuato MENTRE LA CONDIZIONE E' TRUE</p>
+<p>il costrutto "Ciclo while" è molto simile al ciclo FOR; <b>qui le variabili che in qualche
+    modo influenzano le condizioni sono innestate nel ciclo stesso.</b><br>
+    Il ciclo viene effettuato MENTRE LA CONDIZIONE (ed i parametri) E' TRUE</p>
 <?php include 'include_menu.php'; ?>
+<hr>
+<br>
+Ciclo HILE:<br>
+* WHILE (Condizione_1)<br>
+* {<br>
+* istruzioni da eseguire + eventuali istruzioni di modidica della condizione<br>
+* come ad esempio $var_di_condizione+++
+* }<br>
 <hr>
 <br>
 <?php
@@ -17,6 +25,7 @@
     while ($row <= $maxrow)
     {
       print ("Riga $row, ne mancano ancora " . ($maxrow - $row) ." <br>");
+        /** modifica condizioni */
         $row++;
     }
 ?>

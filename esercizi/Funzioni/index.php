@@ -12,6 +12,9 @@
     <li><a href="/esercizi/funzioni/visibilita-variabili.php" style="text-decoration:none">Visibilità delle variabili</a></li>
     <li><a href="/esercizi/funzioni/global.php" style="text-decoration:none">GLOBAL nell'utilizzo delle variabili nelle funzioni</a></li>
     <li><a href="/esercizi/funzioni/static.php" style="text-decoration:none">STATIC nell'utilizzo delle variabili nelle funzioni</a></li>
+    <li><a href="/esercizi/funzioni/passaggio-parametri-per-valore.php" style="text-decoration:none">Passaggio Parametri Per Valore</a></li>
+    <li><a href="/esercizi/funzioni/passaggio-parametri-per-riferimento.php" style="text-decoration:none">Passaggio Parametri Per Riferimento</a></li>
+    <li><a href="/esercizi/funzioni/passaggio-di-default-dei-parametri.php" style="text-decoration:none">Passaggio Parametri di DEFAULT</a></li>
 </ul>
 <hr>
 <li><a href="/esercizi/index.php">Torna all'indice generale</a></li>

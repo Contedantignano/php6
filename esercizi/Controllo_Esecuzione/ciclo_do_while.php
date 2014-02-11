@@ -11,6 +11,14 @@
 <?php include 'include_menu.php'; ?>
 <hr>
 <br>
+<b>Ciclo DO-WHILE:</b><br><br>
+* <B>DO</B> <br>
+* {<br>
+* istruzioni da eseguire + eventuali istruzioni di modidica della condizione PER OGNI ITERAZIONE<br>
+* come ad esempio $var_di_condizione+++
+* } <B>WHILE</B> (Condizione_1) .... è true!<br>
+<hr>
+<br>
 <?php
     $i =10;
     do{
