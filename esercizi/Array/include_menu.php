@@ -1,0 +1,1 @@
+<a href="/esercizi/array/">Array - Indice e regole sintattiche</a>
