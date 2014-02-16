@@ -2,7 +2,7 @@
     function getBgColor()
     {
         static $col = "black";
-        $col=($col=="black"?"white" : "black");
+        $col=($col=="black" ? "white" : "black");
         return $col;
     }
 
@@ -34,6 +34,7 @@ struttura complesse come come matrici, strutture spaziali, o dotate di un numero
 <br>
 <?php
 $scacchiera[] = array ("T","C","A","Q","K","A","C","T");
+//** $scacchiera è già una ARRAY SENZA KEY - qui si aggiunge un ARRAY ad un ARRAY */
 $scacchiera[] = array ("P","P","P","P","P","P","P","P");
 $scacchiera[] = array (" "," "," "," "," "," "," "," ");
 $scacchiera[] = array (" "," "," "," "," "," "," "," ");
@@ -42,15 +43,18 @@ $scacchiera[] = array (" "," "," "," "," "," "," "," ");
 $scacchiera[] = array (" "," "," "," "," "," "," "," ");
 $scacchiera[] = array ("P","P","P","P","P","P","P","P");
 $scacchiera[] = array ("T","C","A","Q","K","A","C","T");
-
+//** La scacchiera è disegnata ed impostata dagli array qui sopra. Lo schema è già visibile */
 print ("<table border=\"1\">");
+//** Apro la tabella o il div di contenimento */
 for ($i=0;$i<count($scacchiera);$i++)
+//** Questo primo ciclo for scandisce e attiva tutte le righe della scacchiera */
 {
     print ("<tr>");
-    for ($j=0;$j<count($scacchiera[$i]);$j++)
-    {
-        print ("<td bgcolor=\" ". getBgColor() ."\"><font color=\" ". getColor() ."\">" . ($scacchiera[$i][$j]==" " ? "&nbsp; " :$scacchiera[$i][$j]) . "</font></td>");
-    }
+        for ($j=0;$j<count($scacchiera[$i]);$j++)
+            //** Questo secondo ciclo interno "for" scandisce TUTTI GLI ELEMENTI del ciclo precedente della scacchiera */
+        {
+            print ("<td bgcolor=\" ". getBgColor() ."\"><font color=\" ". getColor() ."\">" . ($scacchiera[$i][$j]==" " ? "&nbsp; " :$scacchiera[$i][$j]) . "</font></td>");
+        }
     print ("</tr>");
     getBgColor();
 }

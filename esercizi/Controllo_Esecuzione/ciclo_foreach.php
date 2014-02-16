@@ -15,7 +15,7 @@ E' strutturato cos':<br>
 * {<br>
 * istruzioni da eseguire per ogni elemento dell'array<br>
 * }<br>
-* a ogni iterazione viene leto un elemento di array e viene assegnato a valore, <b>per cui su tale elemento</b><br>
+* a ogni iterazione viene letto un elemento di array e viene assegnato a valore, <b>per cui su tale elemento</b><br>
 è possibile effettuare qualsiasi tipo di operazione di lettura.
 <hr>
 <br>

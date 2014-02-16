@@ -12,7 +12,9 @@
    <li><a href="/esercizi/array/array-elementi-navigazione.php" style="text-decoration:none">Array ed elementi di navigazione</a></li>
    <li><a href="/esercizi/array/array-elementi-navigazione2.php" style="text-decoration:none">Array ed elementi di navigazione 2</a></li>
    <li><a href="/esercizi/array/array-metodi-inizializzazione.php" style="text-decoration:none">Altri metodi di inizializzazione</a></li>
-   <li><a href="/esercizi/array/array-multidimensionali.php" style="text-decoration:none">Array Multidimensionali</a></li>
+   <li><a href="/esercizi/array/array-multidimensionali.php" style="text-decoration:none">Array Multidimensionali - La scacchiera</a></li>
+   <li><a href="/esercizi/array/array-rappresentazione-spaziale.php" style="text-decoration:none">Array rappresentazione spaziale - IL CUBO</a></li>
+   <li><a href="/esercizi/array/array-operatore+.php" style="text-decoration:none">Array l'operatotre +</a></li>
 </ul>
 <hr>
 <ul>
