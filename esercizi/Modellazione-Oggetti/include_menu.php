@@ -1,0 +1,1 @@
+<a href="/esercizi/modellazione-oggetti/index.php">Indice sezione - Modello ad oggetti PHP5</a>
