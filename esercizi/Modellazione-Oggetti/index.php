@@ -7,7 +7,7 @@
 <h2>Modellazione ad Oggetti - PHP5</h2>
 <hr>
 <ul>
-    <li><a href="/esercizi/modellazione-oggetti/definizione-utilizzo-classe.php" style="text-decoration:none">Indice della sezione</a></li>
+    <li><a href="/esercizi/modellazione-oggetti/definizione-utilizzo-classe.php" style="text-decoration:none">CLASSE chiamata e definizione</a></li>
 
 </ul>
 <hr>
