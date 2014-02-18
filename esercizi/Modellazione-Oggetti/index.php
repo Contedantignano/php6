@@ -8,6 +8,8 @@
 <hr>
 <ul>
     <li><a href="/esercizi/modellazione-oggetti/definizione-utilizzo-classe.php" style="text-decoration:none">CLASSE chiamata e definizione</a></li>
+    <li><a href="/esercizi/modellazione-oggetti/costruttore-e-distruttore.php" style="text-decoration:none">Costruttore & Distruttore</a></li>
+    <li><a href="/esercizi/modellazione-oggetti/classi-ereditarieta.php" style="text-decoration:none">Classi e Ereditarietà</a></li>
 
 </ul>
 <hr>
