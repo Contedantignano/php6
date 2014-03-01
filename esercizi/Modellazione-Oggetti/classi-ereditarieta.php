@@ -47,7 +47,8 @@ class belena extends mammifero
 <h2>Classi Ereditarietà</h2>
 <?php include 'include_menu.php'; ?>
 <hr>
-<p>Note</p>
+<p>extends: Indica quale classe deve diventare una SUPERCLASSE e quindi il riferimnento da cui possono essere
+presi proprietà e metodi.</p>
 <hr>
 <br>
 <?php
