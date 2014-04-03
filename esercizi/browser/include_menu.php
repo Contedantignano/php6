@@ -1,1 +1,1 @@
-<a href="/esercizi/controllo_esecuzione/">Indice Controllo Esecuizione Script PHP</a>
+<a href="/esercizi/browser/">Indice Browser ed integrazioni</a>

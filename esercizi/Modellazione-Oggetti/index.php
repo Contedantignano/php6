@@ -15,6 +15,7 @@
     <li><a href="/esercizi/modellazione-oggetti/attributi-e-metodi-statici.php" style="text-decoration:none">Attributi e metodi statici</a></li>
     <li><a href="/esercizi/modellazione-oggetti/uguaglianza-tra-oggetti.php" style="text-decoration:none">Uguaglianza tra oggetti</a></li>
     <li><a href="/esercizi/modellazione-oggetti/uguaglianza-personalizzata-oggetti.php" style="text-decoration:none">Uguaglianza personalizzata tra oggetti</a></li>
+    <li><a href="/esercizi/modellazione-oggetti/clonazione-oggetti.php" style="text-decoration:none">Clonazione degli oggetti</a></li>
 </ul>
 <hr>
 <li><a href="/esercizi/index.php">Torna all'indice generale</a></li>
