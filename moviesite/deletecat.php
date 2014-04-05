@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>Joke CMS: Delete Categories</title>
+    <meta http-equiv=”Content-Type” content=”text/html; charset="UTF-8"″>
+</head>
+<body>
+<h2>Joke CMS: Delete Categories</h2>
+    <?php
+
+    $dbcnx = @mysql_connect('localhost','root','root');
+    if (!$dbcnx) {
+        exit ('<p>Unable to connect to the '.' database server at this time.</p>' );
+    }
+    if (!@mysql_select_db('ijdb')) {
+        exit ('<p>Unable to locate joke ' .  ' database at this time.</p>');
+    }
+//Cancella tutte le categorie
+    $id = $_GET['id'];
+    $ok1 = @mysql_query("DELETE FROM jokecategory WHERE categoryid='$id'");
+    $ok2 = @mysql_query("DELETE FROM category WHERE id='$id'");
+    if ($ok1 && $ok2) {
+        echo '<p>Category deleted succefully!</p>';
+        } else {
+        echo '<p>Error deleting Category from database!<br/>'.'Error: ' . mysql_error() . '</p>';
+    }
+    ?>
+<p><a href="cats.php">Return to categories list</a></p>
+</body>
+</html>

@@ -6,27 +6,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/cats.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/editauthor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/authors.php" afterPath="$PROJECT_DIR$/moviesite/authors.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/clonazione-oggetti.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/clonazione-oggetti.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/deleteauthor.php" afterPath="$PROJECT_DIR$/moviesite/deleteauthor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/form.php" afterPath="$PROJECT_DIR$/esercizi/browser/form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/browser/include_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/index.html" afterPath="$PROJECT_DIR$/moviesite/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/index.php" afterPath="$PROJECT_DIR$/esercizi/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/index.php" afterPath="$PROJECT_DIR$/esercizi/browser/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/index.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/newauthor.php" afterPath="$PROJECT_DIR$/moviesite/newauthor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/send.php" afterPath="$PROJECT_DIR$/esercizi/browser/send.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/variabile_request.php" afterPath="$PROJECT_DIR$/esercizi/browser/variabile_request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/deletecat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/editcat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/jokelist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/jokes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/newcat.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396510752928" ignored="false" />
+    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396711919132" ignored="false" />
     <file path="/firstprog.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725212502" ignored="false" />
-    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1393707616048" ignored="false" />
+    <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396535458565" ignored="false" />
     <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1393706209084" ignored="false" />
     <file path="/Istruzione_if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391726892773" ignored="false" />
     <file path="/If-elese-if.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391730276784" ignored="false" />
@@ -81,6 +73,10 @@
     <file path="/newauthor.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396458170853" ignored="false" />
     <file path="/editauthor.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396460617239" ignored="false" />
     <file path="/cats.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396461022632" ignored="false" />
+    <file path="/deletecat.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396536456676" ignored="false" />
+    <file path="/newcat.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396538208133" ignored="false" />
+    <file path="/editcat.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396542338678" ignored="false" />
+    <file path="/jokelist.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396717780210" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,60 +101,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="authors.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/authors.php">
+      <file leaf-file-name="jokes.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moviesite/jokes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="59" selection-start="0" selection-end="1179" vertical-scroll-proportion="0.0">
+            <state line="35" column="59" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.4375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/index.html">
+      <file leaf-file-name="jokelist.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/jokelist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="30" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cats.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/moviesite/cats.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="56" selection-start="553" selection-end="553" vertical-scroll-proportion="0.34464285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deleteauthor.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/deleteauthor.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="60" column="45" selection-start="1832" selection-end="1832" vertical-scroll-proportion="-20.208334">
               <folding>
-                <marker date="1396451229000" expanded="true" signature="96:1076" placeholder="..." />
-                <marker date="1396451229000" expanded="true" signature="103:229" placeholder="..." />
-                <marker date="1396451229000" expanded="true" signature="236:1068" placeholder="..." />
+                <marker date="1396717805000" expanded="true" signature="1629:1851" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newauthor.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/newauthor.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="12" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="editauthor.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/editauthor.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -182,22 +140,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/esercizi/modellazione-oggetti/uguaglianza-personalizzata-oggetti.php" />
-        <option value="$PROJECT_DIR$/esercizi/modellazione-oggetti/index.php" />
-        <option value="$PROJECT_DIR$/esercizi/modellazione-oggetti/clonazione-oggetti.php" />
-        <option value="$PROJECT_DIR$/esercizi/index.php" />
-        <option value="$PROJECT_DIR$/esercizi/browser/form.php" />
-        <option value="$PROJECT_DIR$/esercizi/browser/include_menu.php" />
         <option value="$PROJECT_DIR$/esercizi/browser/send.php" />
         <option value="$PROJECT_DIR$/esercizi/browser/variabile_request.php" />
         <option value="$PROJECT_DIR$/esercizi/browser/index.php" />
         <option value="$PROJECT_DIR$/moviesite/index.html" />
         <option value="$PROJECT_DIR$/moviesite/authors.php" />
-        <option value="$PROJECT_DIR$/moviesite/deleteauthor.php" />
         <option value="$PROJECT_DIR$/moviesite/newauthor.php" />
         <option value="$PROJECT_DIR$/moviesite/editauthors.php" />
         <option value="$PROJECT_DIR$/moviesite/editauthor.php" />
         <option value="$PROJECT_DIR$/moviesite/cats.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/moviesite/deleteauthor.php" />
+        <option value="$PROJECT_DIR$/moviesite/deletecat.php" />
+        <option value="$PROJECT_DIR$/moviesite/newcat.php" />
+        <option value="$PROJECT_DIR$/moviesite/editcat.php" />
+        <option value="$PROJECT_DIR$/moviesite/jokesearch.php" />
+        <option value="$PROJECT_DIR$/moviesite/jokelist.php" />
       </list>
     </option>
   </component>
@@ -338,15 +296,15 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/esercizi/phpinfo.php" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="php6" serverId="d8424b69-fd42-4020-aca5-c00966ec3680">
     <servers>
@@ -386,10 +344,10 @@
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
-    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -418,14 +376,14 @@
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d8424b69-fd42-4020-aca5-c00966ec3680" server_name="php6">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d8424b69-fd42-4020-aca5-c00966ec3680" server_name="php6">
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -483,14 +441,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="730" extended-state="7" />
+    <frame x="0" y="22" width="1280" height="730" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3246951" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" x="0" y="22" width="1280" height="774" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.8082386" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.8082386" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25688818" sideWeight="0.9005682" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2706645" sideWeight="0.9005682" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5106707" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.8082386" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.4943274" order="7" side_tool="true" content_ui="tabs" />
@@ -593,41 +551,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/esercizi/modellazione-oggetti/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="7" selection-start="1551" selection-end="1551" vertical-scroll-proportion="-13.125" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="82" selection-start="656" selection-end="656" vertical-scroll-proportion="-8.75" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="7" selection-start="0" selection-end="1337" vertical-scroll-proportion="-13.125" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/funzioni/include_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/browser/include_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="59" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esercizi/browser/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1001" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/esercizi/browser/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="4" selection-start="371" selection-end="371" vertical-scroll-proportion="-0.625" />
@@ -643,48 +566,91 @@
         <state line="14" column="74" selection-start="443" selection-end="443" vertical-scroll-proportion="-8.75" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/deleteauthor.php">
+    <entry file="file://$PROJECT_DIR$/moviesite/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-          <folding>
-            <marker date="1396451229000" expanded="true" signature="96:1076" placeholder="..." />
-            <marker date="1396451229000" expanded="true" signature="103:229" placeholder="..." />
-            <marker date="1396451229000" expanded="true" signature="236:1068" placeholder="..." />
-          </folding>
+        <state line="7" column="30" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esercizi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="763" vertical-scroll-proportion="-0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/newauthor.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="12" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0">
+        <state line="11" column="70" selection-start="293" selection-end="293" vertical-scroll-proportion="0.30726257" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/deleteauthor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="91" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/deletecat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="19" selection-start="575" selection-end="723" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/authors.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="59" selection-start="0" selection-end="1179" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/editauthor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
+        <state line="15" column="25" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/cats.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="56" selection-start="553" selection-end="553" vertical-scroll-proportion="0.34464285">
+        <state line="36" column="7" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/editauthor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="1678" selection-end="2062" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/newcat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="42" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/editcat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="24" selection-start="756" selection-end="756" vertical-scroll-proportion="-1.1666666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/newauthor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="12" selection-start="856" selection-end="856" vertical-scroll-proportion="0.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/jokelist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="45" selection-start="1832" selection-end="1832" vertical-scroll-proportion="-20.208334">
+          <folding>
+            <marker date="1396717805000" expanded="true" signature="1629:1851" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/jokes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="59" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.4375">
           <folding />
         </state>
       </provider>
