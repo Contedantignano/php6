@@ -21,9 +21,9 @@
 <br>
 <?php
     $i =10;
-    do{
+    do {
         print ($i-- . " <br>");
-    } while ($i>0);
+    }   while ($i>0);
 ?>
 </body>
 </html>

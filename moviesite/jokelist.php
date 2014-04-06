@@ -18,22 +18,20 @@ if (!@mysql_select_db('ijdb')) {
 //Dichiarazione select di base
     $select = 'SELECT DISTINCT id, joketext';
     $from   = ' FROM joke';
-    $where  = ' WHERE 1=1';
-
+    $where  = ' WHERE 1';
     $aid    = $_POST['aid'];
     if ($aid != '') { //Un autore è selezionato
     $where .= " AND authorid='$aid' ";
     }
-
     $cid = $_POST['cid'];
     if ($cid != '') { //una categoria è selezionata
     $from  .= ', jokecategory';
     $where .= " AND id=jokeid AND categoryid='$cid'";
     }
-$searchtext = $_POST['searchtext'];
-if ($searchtext != '') { //il testo della ricerca è specificato
-    $where .= "AND joketext LIKE '%searchtext%'";
-}
+    $searchtext = $_POST['searchtext'];
+    if ($searchtext != '') { //il testo della ricerca è specificato
+    $where .= " AND joketext LIKE '%$searchtext%' ";
+    }
 ?>
 <table>
     <tr>
@@ -42,7 +40,7 @@ if ($searchtext != '') { //il testo della ricerca è specificato
     </tr>
 <?php
     $jokes = @mysql_query($select . $from . $where);
-    if (!$jokes){
+    if (!$jokes) {
         echo '</table>';
         exit('<p>Error retrieving jokes from database!<br>' .
              'Error: ' . mysql_error() . '</p>' );
