@@ -32,16 +32,16 @@ $sql = "INSERT INTO author SET
 
 ?>
 
-<p><a href="<?php echo $_SERVER['PHP_SELF']; ?>">Add another author </a></p>
-<p><a href="authors.php">Return to author list</a></p>
+    <p><a href="<?php echo $_SERVER['PHP_SELF']; ?>">Add another author </a></p>
+    <p><a href="authors.php">Return to author list</a></p>
 
 <?php else: //permette a tutti gli utenti di inserire nuovi autori ?>
-<form action="<? echo $_SERVER['PHP_SELF']; ?>" method="post">
-    <p>Enter new author:</p>
-    <label>Name: <input type="text" name="name"/></label><br>
-    <label>Email: <input type="text" name="email"/></label><br>
-    <input type="submit" value="submit"/>
-</form>
+    <form action="<? echo $_SERVER['PHP_SELF']; ?>" method="post">
+        <p>Enter new author:</p>
+        <label>Name: <input type="text" name="name"/></label><br>
+        <label>Email: <input type="text" name="email"/></label><br>
+        <input type="submit" value="submit"/>
+    </form>
 
 <?php endif; ?>
 

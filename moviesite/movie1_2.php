@@ -1,9 +1,5 @@
-<?php
-/** setto una variabile che invio a moviesite*/
-  session_start();
-  $_SESSION['username'] = 'Joe12345';
-  $_SESSION['authuser'] = 1;
-?>
+<!--Assegno la variabile e la invio tramite URL ad un file che la estrarrà con $_GET-->
+
 <html>
 <head>
     <title>Find my Fovourite Movie!</title>
@@ -11,7 +7,7 @@
 <body>
 <?php
     $myfavmovie = urlencode('Life of Brian');
-    echo "<a href=\"moviesite.php?favmovie=$myfavmovie\">";
+    echo "<a href=\"jokesite.php?favmovie=$myfavmovie\">";
     echo 'Click here to see information about my favourite movie!';
     echo '</a>';
 ?>

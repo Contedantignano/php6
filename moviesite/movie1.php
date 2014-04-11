@@ -18,7 +18,7 @@
 <?php include 'header.php'; ?>
 <?php
     $myfavmovie = urlencode('Life of Brian');
-    echo "<a href=\"moviesite.php?favmovie=$myfavmovie\">";
+    echo "<a href=\"jokesite.php?favmovie=$myfavmovie\">";
     echo "Click here to see information about my favourite movie!";
     echo "</a>";
 ?>
