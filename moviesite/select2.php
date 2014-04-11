@@ -11,7 +11,7 @@ $query = 'SELECT
           FROM
               movie, movietype
           WHERE
-              movie.movie_type = movietype.movietype_id
+              movie LEFT JOIN movietype.movietype_id
           AND
               movie_year > 1990
           ORDER BY

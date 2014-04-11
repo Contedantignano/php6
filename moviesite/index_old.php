@@ -9,7 +9,7 @@
 <hr>
 <ol>
     <li><a href="/esercizi/index.php">Esercizio Dummies</a></li>
-    <li><a href="/moviesite/">Costruzione del CMS barzellette</a></li>
+    <li><a href="/jokesite">Costruzione del CMS barzellette</a></li>
 </ol>
 <ol>
     <li><a href="/esercizi/phpinfo.php">My PHP5 Info page system</a></li>
