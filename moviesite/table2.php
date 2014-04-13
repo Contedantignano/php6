@@ -80,7 +80,7 @@ if (!@mysql_select_db('moviesite')) {
 
 //Recupera i dati principali della tabella
 $query = 'SELECT
-            movie_name, movie_year, movie_director, movie_leadactor, movie_type
+            movie_id, movie_name, movie_year, movie_director, movie_leadactor, movie_type
          FROM
             movie
          ORDER BY
@@ -115,7 +115,7 @@ ENDHTML;
 
         $table .= <<<ENDHTML
            <tr>
-           <td>$movie_name</td>
+           <td><a href="movie_details.php?movie_id=$movie_id" title="click here for more info">$movie_name</a></td>
            <td>$movie_year</td>
            <td>$director</td>
            <td>$leadactor</td>
