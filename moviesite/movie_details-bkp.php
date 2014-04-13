@@ -82,16 +82,6 @@ function calculate_differences($takings, $cost) {
     return '<span style="color:' . $color . ';">' . $difference . '</span>';
 }
 
-//Funzione di generazione del rating
-function generate_rating($rating) {
-
-    $movie_rating = '';
-    for ($i=0; $i< $rating; $i++ ) {
-        $movie_rating .= '<img src="star.png" alt="star"/>';
-    }
-    return $movie_rating;
-}
-
 //Collegamento e selezione database
 $dbcnx = @mysql_connect('localhost','root','root');
 if (!$dbcnx) {
@@ -128,8 +118,7 @@ echo <<<ENDHTML
 <html>
 <head>
     <title>Details and reviews for: $movie_name;</title>
-    <meta http-equiv=”Content-Type”; content=”text/html; charset="UTF-8">
-    <meta charset="UTF-8">
+    <meta http-equiv=”Content-Type” content=”text/html; charset="UTF-8">
 </head>
 <body>
  <div style="text-align: center;">
@@ -160,47 +149,7 @@ echo <<<ENDHTML
         <td><strong>Health</strong></strong></td>
         <td>$movie_health</td>
     </tr>
-</table>
-ENDHTML;
-//Recupera le recensioni per questo film
-$query = 'SELECT
-            review_movie_id, review_date, reviewer_name, review_comment, review_rating
-          FROM
-            reviews
-          WHERE
-            review_movie_id = ' . $_GET['movie_id'] . '
-          ORDER BY
-            review_date DESC';
-
-$result = mysql_query($query, $dbcnx) or die (mysql_error($dbcnx));
-
-//Mostra risultati e recensioni
-echo <<<ENDHTML
-<h3><em>Reviews</em></h3>
-<table cellpadding="2" cellspacing="2" style="width: 90%; margin-left: auto; margin-right: auto;">
-<tr>
-    <th style="width: 7em;">Date</th>
-    <th style="width: 10em;">Reviewer</th>
-    <th>Comments</th>
-    <th style="width: 10em;">Rating</th>
-</tr>
-ENDHTML;
-
-while ($row = mysql_fetch_assoc($result)) {
-    $date = $row['review_date'];
-    $name = $row['reviewer_name'];
-    $comment = $row['review_comment'];
-    $rating = generate_rating($row['review_rating']);
-
-echo <<<ENDHTML
-<tr>
-    <td style="vertical-align:top; text-align: center;">$date</td>
-    <td style="vertical-align:top;">$name</td>
-    <td style="vertical-align:top;">$comment</td>
-    <td style="vertical-align:top;">$rating</td>
-</tr>
-</div>
+</table></div>
 </body>
 </html>
 ENDHTML;
-}
