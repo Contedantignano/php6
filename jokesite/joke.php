@@ -56,16 +56,16 @@ $joketext = str_replace(array('[i]', '[I]'), '<em>', $joketext);
 $joketext = str_replace(array('[ei]', '[EI]'), '</em>', $joketext);
 
 // Paragraphs and line breaks
-$joketext = ereg_replace("\r", '', $joketext);
-$joketext = ereg_replace("\n\n", '</p><p>', $joketext);
-$joketext = ereg_replace("\n", '<br />', $joketext);
+$joketext = preg_replace("/\r/", '', $joketext);
+$joketext = preg_replace("/\n\n/", '</p><p>', $joketext);
+$joketext = preg_replace("/\n/", '<br />', $joketext);
 
 // Hyperlinks
-$joketext = eregi_replace(
-  '\\[L]([-_./a-z0-9!&%#?+,\'=:;@~]+)\\[EL]',
+$joketext = preg_replace(
+  '/\\[L]([-_./a-z0-9!&%#?+,\'=:;@~]+)\\[EL]/',
   '<a href="\\1">\\1</a>', $joketext);
-$joketext = eregi_replace(
-  '\\[L=([-_./a-z0-9!&%#?+,\'=:;@~]+)]([^\\[]+)\\[EL]',
+$joketext = preg_replace(
+  '/\\[L=([-_./a-z0-9!&%#?+,\'=:;@~]+)]([^\\[]+)\\[EL]/',
   '<a href="\\1">\\2</a>', $joketext);
 
 $PHP_SELF = $_SERVER['PHP_SELF'];

@@ -6,131 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/db_ch3-1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/db_ch3-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jokesite/deletejoke.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jokesite/editjoke.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/es_1_cap3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/es_2_cap3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jokesite/generateindex.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/select1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/select2-con-riferimento-tabelle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/select2-foreach.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/select2-join-left-on.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/select2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/php6.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php6/.idea/workspace.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/PHP6.iml" afterPath="$PROJECT_DIR$/.idea/php6.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/moviesite/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/date.php" afterPath="$PROJECT_DIR$/moviesite/date.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/Accesso-a-metodo-superclasse-da-sottoclasse.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/accesso-a-metodo-superclasse-da-sottoclasse.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/Definizione-utilizzo-classe.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/definizione-utilizzo-classe.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/firstprog.php" afterPath="$PROJECT_DIR$/moviesite/firstprog.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/moviesite/footer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/moviesite/header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leapyear.php" afterPath="$PROJECT_DIR$/moviesite/leapyear.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/moviesite/login.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/movie1.php" afterPath="$PROJECT_DIR$/moviesite/movie1.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/movie1_0.php" afterPath="$PROJECT_DIR$/moviesite/movie1_0.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/movie1_2.php" afterPath="$PROJECT_DIR$/moviesite/movie1_2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite-1.php" afterPath="$PROJECT_DIR$/moviesite/moviesite-1.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite.php" afterPath="$PROJECT_DIR$/moviesite/moviesite.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/authors.php" afterPath="$PROJECT_DIR$/jokesite/authors.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/cats.php" afterPath="$PROJECT_DIR$/jokesite/cats.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/deleteauthor.php" afterPath="$PROJECT_DIR$/jokesite/deleteauthor.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/deletecat.php" afterPath="$PROJECT_DIR$/jokesite/deletecat.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/editauthor.php" afterPath="$PROJECT_DIR$/jokesite/editauthor.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/editcat.php" afterPath="$PROJECT_DIR$/jokesite/editcat.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/index.html" afterPath="$PROJECT_DIR$/jokesite/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/jokelist.php" afterPath="$PROJECT_DIR$/jokesite/jokelist.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/jokes.php" afterPath="$PROJECT_DIR$/jokesite/jokes.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/newauthor.php" afterPath="$PROJECT_DIR$/jokesite/newauthor.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/newcat.php" afterPath="$PROJECT_DIR$/jokesite/newcat.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/newjoke-err.php" afterPath="$PROJECT_DIR$/jokesite/newjoke-err.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/moviesite/newjoke.php" afterPath="$PROJECT_DIR$/jokesite/newjoke.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scazzo.php" afterPath="$PROJECT_DIR$/moviesite/scazzo.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sorting.php" afterPath="$PROJECT_DIR$/moviesite/sorting.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test1.php" afterPath="$PROJECT_DIR$/moviesite/test1.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/while.php" afterPath="$PROJECT_DIR$/moviesite/while.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/Variabili-x-riferimento.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/Variabili-x-riferimento.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/Variabili-x-valore.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/Variabili-x-valore.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/accessPage.php" afterPath="$PROJECT_DIR$/esercizi/accessPage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/array-elementi-navigazione.php" afterPath="$PROJECT_DIR$/esercizi/array/array-elementi-navigazione.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/array-elementi-navigazione2.php" afterPath="$PROJECT_DIR$/esercizi/array/array-elementi-navigazione2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/array-metodi-inizializzazione.php" afterPath="$PROJECT_DIR$/esercizi/array/array-metodi-inizializzazione.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/array-monodimensionali.php" afterPath="$PROJECT_DIR$/esercizi/array/array-monodimensionali.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/array-multidimensionali.php" afterPath="$PROJECT_DIR$/esercizi/array/array-multidimensionali.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/array-operatore+.php" afterPath="$PROJECT_DIR$/esercizi/array/array-operatore+.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/array-rappresentazione-spaziale.php" afterPath="$PROJECT_DIR$/esercizi/array/array-rappresentazione-spaziale.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/attributi-e-metodi-statici.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/attributi-e-metodi-statici.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/break.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/break.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_do_while.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_do_while.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_for.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_for.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach_key.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_foreach_key.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_while.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/ciclo_while.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/classi-ereditarieta.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/classi-ereditarieta.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/clonazione-oggetti.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/clonazione-oggetti.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/continue.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/continue.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/conversione-boleane.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/conversione-boleane.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/costruttore-e-distruttore.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/costruttore-e-distruttore.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/date.php" afterPath="$PROJECT_DIR$/esercizi/date.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/dati-tipo-null.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/dati-tipo-null.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/dichiarazione.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/dichiarazione.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/form.php" afterPath="$PROJECT_DIR$/esercizi/browser/form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/funzioni_e_valori_di_ritorno.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/funzioni_e_valori_di_ritorno.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/global.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/global.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/identicita-uguaglianza-parametri.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/identicita-uguaglianza-parametri.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/if-elseif-if.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/array/include_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/browser/include_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/include_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/include_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/include_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/include_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/index.php" afterPath="$PROJECT_DIR$/esercizi/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/array/index.php" afterPath="$PROJECT_DIR$/esercizi/array/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/index.php" afterPath="$PROJECT_DIR$/esercizi/browser/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/index.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/index.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/index.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/indicizzazione-stringhe.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/indicizzazione-stringhe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_exit.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/istruzione_exit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/numeri-interi-e-con-virgole.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/numeri-interi-e-con-virgole.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/overloading.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/overloading.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/passaggio-di-default-dei-parametri.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/passaggio-di-default-dei-parametri.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/passaggio-parametri-per-riferimento.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/passaggio-parametri-per-riferimento.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/passaggio-parametri-per-valore.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/passaggio-parametri-per-valore.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/phpinfo.php" afterPath="$PROJECT_DIR$/esercizi/phpinfo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/send.php" afterPath="$PROJECT_DIR$/esercizi/browser/send.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/static.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/stringhe.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/stringhe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/controllo_esecuzione/switch.php" afterPath="$PROJECT_DIR$/esercizi/controllo_esecuzione/switch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/uguaglianza-personalizzata-oggetti.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/uguaglianza-personalizzata-oggetti.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/modellazione-oggetti/uguaglianza-tra-oggetti.php" afterPath="$PROJECT_DIR$/esercizi/modellazione-oggetti/uguaglianza-tra-oggetti.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/tipi-dati/valori-boleani.php" afterPath="$PROJECT_DIR$/esercizi/tipi-dati/valori-boleani.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/browser/variabile_request.php" afterPath="$PROJECT_DIR$/esercizi/browser/variabile_request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esercizi/funzioni/visibilita-variabili.php" afterPath="$PROJECT_DIR$/esercizi/funzioni/visibilita-variabili.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/heredoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/table1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/table2.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/table2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/es_2_cap3.php" afterPath="$PROJECT_DIR$/moviesite/es_2_cap3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jokesite/joke.php" afterPath="$PROJECT_DIR$/jokesite/joke.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397207146749" ignored="false" />
+    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397376444043" ignored="false" />
     <file path="/firstprog.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725212502" ignored="false" />
     <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396535458565" ignored="false" />
     <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1393706209084" ignored="false" />
@@ -201,7 +87,11 @@
     <file path="/select2-foreach.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397082769685" ignored="false" />
     <file path="/select2.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397086156711" ignored="false" />
     <file path="/es_1_cap3.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397145278617" ignored="false" />
-    <file path="/es_2_cap3.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397153225901" ignored="false" />
+    <file path="/es_2_cap3.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397210359869" ignored="false" />
+    <file path="/joke.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397208974872" ignored="false" />
+    <file path="/table1.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397349545711" ignored="false" />
+    <file path="/table2.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397384112061" ignored="false" />
+    <file path="/heredoc.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397376825721" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,19 +116,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="es_1_cap3.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/es_1_cap3.php">
+      <file leaf-file-name="table1.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/table1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="45" selection-start="205" selection-end="220" vertical-scroll-proportion="0.0">
+            <state line="21" column="29" selection-start="628" selection-end="628" vertical-scroll-proportion="-13.125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="es_2_cap3.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/moviesite/es_2_cap3.php">
+      <file leaf-file-name="table2.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moviesite/table2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.43357933">
+            <state line="65" column="18" selection-start="1527" selection-end="1527" vertical-scroll-proportion="-0.2822014">
+              <folding>
+                <element signature="e#6#163#0" expanded="true" />
+                <marker date="1397384454000" expanded="true" signature="2293:2311" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="2312:3284" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="2421:2471" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="2485:2675" placeholder="..." />
+                <marker date="1397384454000" expanded="true" signature="3030:3203" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jokelist.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jokesite/jokelist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="49" selection-start="734" selection-end="734" vertical-scroll-proportion="-15.0">
               <folding />
             </state>
           </provider>
@@ -253,64 +163,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jokelist.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jokesite/jokelist.php">
+      <file leaf-file-name="jokes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jokesite/jokes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="select1.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/select1.php">
+      <file leaf-file-name="table2.0.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/table2.0.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="31" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="editjoke.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jokesite/editjoke.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="19" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select2.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/select2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="26" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select2-con-riferimento-tabelle.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/select2-con-riferimento-tabelle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="18" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select2-foreach.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/select2-foreach.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="2" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select2-join-left-on.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviesite/select2-join-left-on.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="18" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -335,10 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/moviesite/newjoke.php" />
-        <option value="$PROJECT_DIR$/moviesite/editjoke.php" />
-        <option value="$PROJECT_DIR$/moviesite/newauthor.php" />
-        <option value="$PROJECT_DIR$/moviesite/deletejoke.php" />
         <option value="$PROJECT_DIR$/jokesite/index.html" />
         <option value="$PROJECT_DIR$/jokesite/generateindex.php" />
         <option value="$PROJECT_DIR$/jokesite/jokelist.php" />
@@ -350,7 +211,11 @@
         <option value="$PROJECT_DIR$/moviesite/select2-foreach.php" />
         <option value="$PROJECT_DIR$/moviesite/select2.php" />
         <option value="$PROJECT_DIR$/moviesite/es_1_cap3.php" />
+        <option value="$PROJECT_DIR$/jokesite/joke.php" />
         <option value="$PROJECT_DIR$/moviesite/es_2_cap3.php" />
+        <option value="$PROJECT_DIR$/moviesite/table1.php" />
+        <option value="$PROJECT_DIR$/moviesite/heredoc.php" />
+        <option value="$PROJECT_DIR$/moviesite/table2.php" />
       </list>
     </option>
   </component>
@@ -369,10 +234,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
-    <option name="y" value="22" />
-    <option name="width" value="1248" />
-    <option name="height" value="735" />
+    <option name="x" value="-1280" />
+    <option name="y" value="-545" />
+    <option name="width" value="1280" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -383,6 +248,9 @@
           </State>
           <State>
             <id>CSS</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
           </State>
           <State>
             <id>Code style issuesJavaScript</id>
@@ -420,7 +288,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpExpressionResultUnusedInspection</id>
+            <id>PhpRedundantClosingTagInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -460,6 +328,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moviesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jokesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -472,7 +378,7 @@
     <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jobeet" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -630,14 +536,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="22" width="1248" height="735" extended-state="0" />
-    <editor active="false" />
+    <frame x="-1280" y="-545" width="1280" height="1002" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3246951" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" x="0" y="22" width="1280" height="774" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.8082386" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.8082386" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34276205" sideWeight="0.98379254" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23793676" sideWeight="0.98379254" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5106707" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.8082386" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.4943274" order="7" side_tool="true" content_ui="tabs" />
@@ -736,82 +642,10 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="71" />
+      <option name="time" value="72" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jokesite/jokes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="57" selection-start="1107" selection-end="1154" vertical-scroll-proportion="-20.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jokesite/deletecat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="791" selection-end="791" vertical-scroll-proportion="-13.125" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jokesite/newauthor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="5.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/sorting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="-5.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/while.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jokesite/cats.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="6" selection-start="770" selection-end="1041" vertical-scroll-proportion="-19.375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/es_1_cap3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="45" selection-start="205" selection-end="220" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/select2-join-left-on.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="18" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/select2-foreach.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="2" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/select1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jokesite/editjoke.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="19" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jokesite/jokelist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/select2-con-riferimento-tabelle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="18" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0">
@@ -819,9 +653,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/es_2_cap3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="24" selection-start="1442" selection-end="1442" vertical-scroll-proportion="1.5221403">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokesite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokesite/editcat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokesite/joke.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="17" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.16974169">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokesite/editjoke.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="19" selection-start="801" selection-end="801" vertical-scroll-proportion="0.027173912">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokesite/generateindex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokesite/index_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/select2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="26" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="6" selection-end="265" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/heredoc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="2" selection-start="262" selection-end="348" vertical-scroll-proportion="0.53097343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/table1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="29" selection-start="628" selection-end="628" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/table2.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokesite/jokelist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="49" selection-start="734" selection-end="734" vertical-scroll-proportion="-15.0">
           <folding />
         </state>
       </provider>
@@ -833,10 +740,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moviesite/es_2_cap3.php">
+    <entry file="file://$PROJECT_DIR$/jokesite/jokes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.43357933">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/table2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="18" selection-start="1527" selection-end="1527" vertical-scroll-proportion="-0.2822014">
+          <folding>
+            <element signature="e#6#163#0" expanded="true" />
+            <marker date="1397384454000" expanded="true" signature="2293:2311" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="2312:3284" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="2402:3247" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="2421:2471" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="2485:2675" placeholder="..." />
+            <marker date="1397384454000" expanded="true" signature="3030:3203" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
