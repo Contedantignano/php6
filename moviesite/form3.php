@@ -23,7 +23,7 @@
     <table>
         <tr>
             <td>Name</td>
-            <td><input type="text" nome="name"/></td>
+            <td><input type="text" name="name"/></td>
         </tr>
         <tr>
             <td>Movie type</td>

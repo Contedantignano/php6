@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/form3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/formprocess3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/form4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/form4a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/form4b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/form3.php" afterPath="$PROJECT_DIR$/moviesite/form3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/formprocess3.php" afterPath="$PROJECT_DIR$/moviesite/formprocess3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397430754642" ignored="false" />
+    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397469132441" ignored="false" />
     <file path="/firstprog.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725212502" ignored="false" />
     <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396535458565" ignored="false" />
     <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1393706209084" ignored="false" />
@@ -86,8 +90,12 @@
     <file path="/heredoc.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397376825721" ignored="false" />
     <file path="/db_ch4-1.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397386326572" ignored="false" />
     <file path="/movie_details.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397428931094" ignored="false" />
-    <file path="/form3.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397433898001" ignored="false" />
-    <file path="/formprocess3.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397432821320" ignored="false" />
+    <file path="/form3.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397470927444" ignored="false" />
+    <file path="/formprocess3.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397470064350" ignored="false" />
+    <file path="/form4.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397472221834" ignored="false" />
+    <file path="/form4a.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397496542584" ignored="false" />
+    <file path="/form4b.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397497182269" ignored="false" />
+    <file path="/admin.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397499408800" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,33 +114,75 @@
     <groupTables value="false" />
     <sortChildren value="false" />
   </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="form3.php" pinned="false" current="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/moviesite/form3.php">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state line="25" column="39" selection-start="634" selection-end="634" vertical-scroll-proportion="0.13934426">
-                    <folding>
-                      <element signature="e#6#163#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="PHP6" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="formprocess3.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/formprocess3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="78" selection-start="618" selection-end="618" vertical-scroll-proportion="-12.5">
+              <folding>
+                <element signature="e#6#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form4a.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/form4a.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="47" selection-start="1098" selection-end="1102" vertical-scroll-proportion="-7.5">
+              <folding>
+                <element signature="e#6#163#0" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form4b.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/form4b.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="8" selection-start="512" selection-end="512" vertical-scroll-proportion="-14.375">
+              <folding>
+                <element signature="e#6#163#0" expanded="true" />
+                <marker date="1397497196000" expanded="true" signature="457:1116" placeholder="..." />
+                <marker date="1397497196000" expanded="true" signature="688:705" placeholder="..." />
+                <marker date="1397497196000" expanded="true" signature="806:823" placeholder="..." />
+                <marker date="1397497196000" expanded="true" signature="872:1116" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moviesite/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="8" selection-start="1557" selection-end="1557" vertical-scroll-proportion="1.2389381">
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1397499409000" expanded="true" signature="1210:2278" placeholder="..." />
+                <marker date="1397499409000" expanded="true" signature="1260:1270" placeholder="..." />
+                <marker date="1397499409000" expanded="true" signature="1330:2278" placeholder="..." />
+                <marker date="1397499409000" expanded="true" signature="1957:1967" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select2.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/select2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="11" selection-start="6" selection-end="265" vertical-scroll-proportion="-0.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -151,10 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db_ch3-2.php" />
-        <option value="$PROJECT_DIR$/moviesite/select1.php" />
-        <option value="$PROJECT_DIR$/moviesite/select2-foreach.php" />
-        <option value="$PROJECT_DIR$/moviesite/select2.php" />
         <option value="$PROJECT_DIR$/moviesite/es_1_cap3.php" />
         <option value="$PROJECT_DIR$/jokesite/joke.php" />
         <option value="$PROJECT_DIR$/moviesite/es_2_cap3.php" />
@@ -165,8 +211,12 @@
         <option value="$PROJECT_DIR$/moviesite/db_ch4-1.php" />
         <option value="$PROJECT_DIR$/moviesite/movie_details.php" />
         <option value="$PROJECT_DIR$/form3.php" />
-        <option value="$PROJECT_DIR$/moviesite/form3.php" />
         <option value="$PROJECT_DIR$/moviesite/formprocess3.php" />
+        <option value="$PROJECT_DIR$/moviesite/form3.php" />
+        <option value="$PROJECT_DIR$/moviesite/form4.php" />
+        <option value="$PROJECT_DIR$/moviesite/form4a.php" />
+        <option value="$PROJECT_DIR$/moviesite/form4b.php" />
+        <option value="$PROJECT_DIR$/moviesite/admin.php" />
       </list>
     </option>
   </component>
@@ -185,7 +235,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
+    <option name="x" value="14" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="735" />
@@ -311,16 +361,16 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/moviesite" />
+    <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/moviesite" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="PublishConfig" serverName="php6" serverId="d8424b69-fd42-4020-aca5-c00966ec3680">
     <servers>
@@ -370,10 +420,10 @@
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -402,14 +452,14 @@
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d8424b69-fd42-4020-aca5-c00966ec3680" server_name="php6">
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d8424b69-fd42-4020-aca5-c00966ec3680" server_name="php6">
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -474,14 +524,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="22" width="1280" height="735" extended-state="0" />
-    <editor active="false" />
+    <frame x="14" y="22" width="1280" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3246951" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" x="0" y="22" width="1280" height="735" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.67045456" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25283632" sideWeight="0.671875" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18881686" sideWeight="0.6734059" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18881686" sideWeight="0.6734059" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5106707" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.8082386" order="2" side_tool="false" content_ui="tabs" x="437" y="48" width="406" height="704" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.4943274" order="7" side_tool="true" content_ui="tabs" />
@@ -598,9 +648,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/table2.php">
@@ -612,18 +660,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/form3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="634" selection-end="634" vertical-scroll-proportion="0.13934426">
+        <state line="52" column="7" selection-start="1732" selection-end="1966" vertical-scroll-proportion="0.8032596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/form4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="1892" selection-end="1892" vertical-scroll-proportion="0.96432817">
           <folding>
-            <element signature="e#6#163#0" expanded="true" />
+            <element signature="e#6#163#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/formprocess3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="34" selection-start="389" selection-end="389" vertical-scroll-proportion="0.29307282">
+        <state line="20" column="78" selection-start="618" selection-end="618" vertical-scroll-proportion="-12.5">
           <folding>
             <element signature="e#6#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/form4a.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="47" selection-start="1098" selection-end="1102" vertical-scroll-proportion="-7.5">
+          <folding>
+            <element signature="e#6#163#0" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/form4b.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="8" selection-start="512" selection-end="512" vertical-scroll-proportion="-14.375">
+          <folding>
+            <element signature="e#6#163#0" expanded="true" />
+            <marker date="1397497196000" expanded="true" signature="457:1116" placeholder="..." />
+            <marker date="1397497196000" expanded="true" signature="688:705" placeholder="..." />
+            <marker date="1397497196000" expanded="true" signature="806:823" placeholder="..." />
+            <marker date="1397497196000" expanded="true" signature="872:1116" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/select2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="11" selection-start="6" selection-end="265" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="8" selection-start="1557" selection-end="1557" vertical-scroll-proportion="1.2389381">
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1397499409000" expanded="true" signature="1210:2278" placeholder="..." />
+            <marker date="1397499409000" expanded="true" signature="1260:1270" placeholder="..." />
+            <marker date="1397499409000" expanded="true" signature="1330:2278" placeholder="..." />
+            <marker date="1397499409000" expanded="true" signature="1957:1967" placeholder="..." />
           </folding>
         </state>
       </provider>
