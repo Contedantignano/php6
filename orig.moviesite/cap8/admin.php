@@ -1,11 +1,7 @@
 <?php
-$dbcnx = @mysql_connect('localhost','root','root');
-if (!$dbcnx) {
-exit ('<p>Unable to connect to the '.' database server at this time.</p>' );
-}
-if (!@mysql_select_db('moviesite', $dbcnx)) {
-exit ('<p>Unable to locate data '.' database at this time.</p>');
-}
+$db = mysql_connect('localhost', 'bp6am', 'bp6ampass') or 
+    die ('Unable to connect. Check your connection parameters.');
+mysql_select_db('moviesite', $db) or die(mysql_error($db));
 ?>
 <html>
  <head>
@@ -23,7 +19,7 @@ exit ('<p>Unable to locate data '.' database at this time.</p>');
   </tr>
 <?php
 $query = 'SELECT * FROM movie';
-$result = mysql_query($query, $dbcnx) or die (mysql_error($dbcnx));
+$result = mysql_query($query, $db) or die (mysql_error($db));
 
 $odd = true;
 while ($row = mysql_fetch_assoc($result)) {
@@ -42,7 +38,7 @@ while ($row = mysql_fetch_assoc($result)) {
   </tr>
 <?php
 $query = 'SELECT * FROM people';
-$result = mysql_query($query, $dbcnx) or die (mysql_error($dbcnx));
+$result = mysql_query($query, $db) or die (mysql_error($db));
 
 $odd = true;
 while ($row = mysql_fetch_assoc($result)) {
