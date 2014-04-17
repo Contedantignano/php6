@@ -2,84 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79781c20-f346-488d-884b-2a7e0c5363aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap6/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap8/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/admin_area.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/auth.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap10/char_transaction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/check_image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/class.SimpleMail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/commit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap6/commit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap8/commit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/commit1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/confirm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/cookies_delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/cookies_set.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/cookies_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/cookies_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap9/custom_error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap10/db.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/db.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/db.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/db_ch07-1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/db_ch07-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap8/db_ch08.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap10/db_ch10.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/db_ch11-1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/db_ch11-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/db_ch12-1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/db_ch12-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap6/delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/delete_account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap10/edit_character.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap10/edit_power.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap9/error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap9/exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap9/feature_error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/firstmail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/form1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/form2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/form3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/form4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/form4a.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/form4b.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/formprocess1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/formprocess2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap5/formprocess3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/gdtest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/image_effect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap10/list_characters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/mail_html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/mail_multpart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/mail_quick.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/mail_text.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/movie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap6/movie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap8/movie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/movie0.1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/postcard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/prova.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/registration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/secret.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/sendconfirm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/sendmail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/update_account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/update_user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/upload_image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap12/user_personal.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig.moviesite/cap11/viewpostcard.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviesite/admin.php" afterPath="$PROJECT_DIR$/moviesite/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/check_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesite/upload_image.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orig.moviesite/cap7/db_ch07-1.php" afterPath="$PROJECT_DIR$/orig.moviesite/cap7/db_ch07-1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PHP6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397657459866" ignored="false" />
+    <file path="/Dummy.txt" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397766689835" ignored="false" />
     <file path="/firstprog.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1391725212502" ignored="false" />
     <file path="/index.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1396535458565" ignored="false" />
     <file path="/include_menu.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1393706209084" ignored="false" />
@@ -167,6 +97,8 @@
     <file path="/prova.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397568859037" ignored="false" />
     <file path="/commit.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397596421243" ignored="false" />
     <file path="/delete.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397596513022" ignored="false" />
+    <file path="/db_ch07-1.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397766846410" ignored="false" />
+    <file path="/check_image.php" changelist="79781c20-f346-488d-884b-2a7e0c5363aa" time="1397767528419" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +122,49 @@
     <favorites_list name="PHP6" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="db_ch07-1.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orig.moviesite/cap7/db_ch07-1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="69" selection-start="271" selection-end="271" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload_image.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/upload_image.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="45" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check_image.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moviesite/check_image.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="195" column="63" selection-start="6399" selection-end="6399" vertical-scroll-proportion="0.44444445">
+              <folding>
+                <element signature="e#6544#6563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesite/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="268" vertical-scroll-proportion="-0.0">
+              <folding>
+                <marker date="1397630599000" expanded="false" signature="880:890" placeholder="..." />
+                <marker date="1397630599000" expanded="false" signature="1519:1530" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -209,8 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/form3.php" />
-        <option value="$PROJECT_DIR$/moviesite/formprocess3.php" />
         <option value="$PROJECT_DIR$/moviesite/form3.php" />
         <option value="$PROJECT_DIR$/moviesite/form4.php" />
         <option value="$PROJECT_DIR$/moviesite/form4a.php" />
@@ -225,6 +197,8 @@
         <option value="$PROJECT_DIR$/moviesite/commit.php" />
         <option value="$PROJECT_DIR$/moviesite/admin.php" />
         <option value="$PROJECT_DIR$/moviesite/delete.php" />
+        <option value="$PROJECT_DIR$/orig.moviesite/cap7/db_ch07-1.php" />
+        <option value="$PROJECT_DIR$/moviesite/check_image.php" />
       </list>
     </option>
   </component>
@@ -345,6 +319,52 @@
               <option name="myItemId" value="php6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="orig.moviesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="orig.moviesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cap7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moviesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -384,11 +404,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/moviesite" />
       <recent name="$PROJECT_DIR$/orig.moviesite/cap5" />
       <recent name="$PROJECT_DIR$/orig.moviesite/cap12" />
       <recent name="$PROJECT_DIR$/orig.moviesite/cap11" />
       <recent name="$PROJECT_DIR$/orig.moviesite/cap10" />
-      <recent name="$PROJECT_DIR$/orig.moviesite/cap9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/orig.moviesite" />
@@ -519,13 +539,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="735" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3246951" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" x="0" y="22" width="1280" height="735" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.67045456" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25283632" sideWeight="0.671875" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20421393" sideWeight="0.6734059" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21069692" sideWeight="0.6734059" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5106707" sideWeight="0.99389315" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.8082386" order="2" side_tool="false" content_ui="tabs" x="437" y="48" width="406" height="704" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.4943274" order="7" side_tool="true" content_ui="tabs" />
@@ -628,21 +648,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/moviesite/commit1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/orig.moviesite/cap7/check_image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/orig.moviesite/cap8/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/orig.moviesite/cap9/custom_error.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -685,38 +690,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/orig.moviesite/cap6/movie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="20" selection-start="724" selection-end="724" vertical-scroll-proportion="0.5840708">
-          <folding />
-        </state>
+        <state line="22" column="20" selection-start="724" selection-end="724" vertical-scroll-proportion="0.5840708" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="659" selection-end="659" vertical-scroll-proportion="0.017699115">
-          <folding />
-        </state>
+        <state line="19" column="34" selection-start="659" selection-end="659" vertical-scroll-proportion="0.017699115" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/commit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="7" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.84070796">
-          <folding />
-        </state>
+        <state line="54" column="7" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.84070796" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/movie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="17" selection-start="480" selection-end="480" vertical-scroll-proportion="0.37168142">
+        <state line="14" column="17" selection-start="480" selection-end="480" vertical-scroll-proportion="0.37168142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orig.moviesite/cap7/db_ch07-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="69" selection-start="271" selection-end="271" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/upload_image.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="45" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.25">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/moviesite/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="268" vertical-scroll-proportion="-0.0">
           <folding>
-            <marker date="1397630599000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1397630599000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1397630599000" expanded="false" signature="880:890" placeholder="..." />
+            <marker date="1397630599000" expanded="false" signature="1519:1530" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesite/check_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="63" selection-start="6399" selection-end="6399" vertical-scroll-proportion="0.44444445">
+          <folding>
+            <element signature="e#6544#6563#0" expanded="true" />
           </folding>
         </state>
       </provider>

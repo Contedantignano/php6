@@ -1,8 +1,11 @@
 <?php
-$db = mysql_connect('localhost', 'bp6am', 'bp6ampass') or 
-    die ('Unable to connect. Check your connection parameters.');
-mysql_select_db('moviesite', $db) or die(mysql_error($db));
-
+$dbcnx = @mysql_connect('localhost','root','root');
+if (!$dbcnx) {
+    exit ('<p>Unable to connect to the '.' database server at this time.</p>' );
+}
+if (!@mysql_select_db('moviesite', $dbcnx)) {
+    exit ('<p>Unable to locate data '.' database at this time.</p>');
+}
 //create the images table
 $query = 'CREATE TABLE images (
         image_id       INTEGER      NOT NULL AUTO_INCREMENT,
@@ -13,7 +16,7 @@ $query = 'CREATE TABLE images (
         PRIMARY KEY (image_id)
     )
     ENGINE=MyISAM';
-mysql_query($query, $db) or die (mysql_error($db));
+mysql_query($query, $dbcnx) or die (mysql_error($dbcnx));
 
 echo 'Images table successfully created.';
 ?>
